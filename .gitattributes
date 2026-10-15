@@ -1,0 +1,19 @@
+# テキストの改行コードは Git に任せる
+* text=auto
+
+# PBIP の中身（JSON / TMDL / PBIR）はテキストとして差分を見る
+*.tmdl   text
+*.json   text
+*.pbir   text
+*.pbism  text
+*.pbip   text
+
+# バイナリ（差分を取らない）
+*.pbix   binary
+*.pbit   binary
+*.xlsx   binary
+*.pptx   binary
+*.docx   binary
+*.pdf    binary
+*.png    binary
+*.jpg    binary
