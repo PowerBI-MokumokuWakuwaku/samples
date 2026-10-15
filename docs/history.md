@@ -15,6 +15,8 @@
 - **共通サンプルデータを追加**
   - 架空の小売チェーン「わくわくマート」のデータ（[`data/wakuwaku_mart_sample.xlsx`](../data/wakuwaku_mart_sample.xlsx)）を追加。今後の勉強会で共通に使う
   - シート・列・表のつながりを [`data/README.md`](../data/README.md) にまとめた
+- **可視化の例を追加**
+  - わくわくマートのデータを Claude で可視化したダッシュボードへのリンクと、その内容を [`data/README.md`](../data/README.md#可視化の例claude-のダッシュボード) に追加。トップの README の「探しているものは？」にも入口を追加
 - **構成を整理**
   - `samples/samples/` という入れ子で迷いやすかったため廃止し、Excel は `data/` に移動
   - 中身のなかったテーマ別フォルダは置かず、`data/`（共通データ）と `sessions/`（開催回）の 2 本立てにした

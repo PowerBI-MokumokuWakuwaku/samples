@@ -16,6 +16,7 @@ GitHub のアカウントがなくても、見るのもダウンロードも自�
 | 探しているもの | 場所 |
 |---|---|
 | 共通のサンプルデータ（わくわくマート） | [`data/`](data/) |
+| データの可視化の例（Claude のダッシュボード、要 Claude ログイン） | [わくわくマート 売上ダッシュボード](https://claude.ai/artifact/RYVMSCWFP3BwV7xAxfJXvw) |
 | 参加した回の資料・サンプル | [`sessions/`](sessions/) |
 | このリポジトリーの更新履歴 | [`docs/history.md`](docs/history.md) |
 
